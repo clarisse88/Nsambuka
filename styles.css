@@ -100,7 +100,8 @@ nav li {
       /* Home Section */
 #home {
     height: 80vh;
-    background-image: url(../images/Background1.jpg);
+    /* background-image: url(../images/Background1.jpg); */
+    background-image: url(C:\Users\Lenovo\OneDrive\Desktop\Nsambuka\images\Background1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
